@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Badimages at 4.42.55 PM.jpg</filename>
+	<path>/Users/manasiweginwar/Desktop/RecheckBoundryBox/images/Badimages at 4.42.55 PM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>786</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>45</ymin>
+			<xmax>759</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

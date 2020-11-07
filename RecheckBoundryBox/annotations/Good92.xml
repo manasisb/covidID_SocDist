@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Good92.jpg</filename>
+	<path>/Users/manasiweginwar/Desktop/RecheckBoundryBox/images/Good92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>911</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>311</ymin>
+			<xmax>617</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

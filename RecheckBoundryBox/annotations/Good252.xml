@@ -1,0 +1,26 @@
+<annotation>
+	<folder>edit</folder>
+	<filename>Good252.jpg</filename>
+	<path>/Users/subhi/Downloads/LSBDM Data/edit/Good252.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>578</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>30</ymin>
+			<xmax>663</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

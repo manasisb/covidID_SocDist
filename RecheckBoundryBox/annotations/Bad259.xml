@@ -1,0 +1,26 @@
+<annotation>
+	<folder>edit</folder>
+	<filename>Bad259.jpg</filename>
+	<path>/Users/subhi/Downloads/LSBDM Data/edit/Bad259.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>56</ymin>
+			<xmax>185</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>
