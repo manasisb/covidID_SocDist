@@ -8,4 +8,4 @@ CovidID SocDistance project is a one of iLab research project focusing on estima
 * Subhangi Asati 
 * Divya Gupta 
 
-*YouTube Link - https://www.youtube.com/watch?v=Df2-WVu9rGI&feature=emb_logo
+*YouTube Link* - https://www.youtube.com/watch?v=Df2-WVu9rGI&feature=emb_logo
