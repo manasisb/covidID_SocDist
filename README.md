@@ -4,6 +4,6 @@ Covid ID SocDist is a sub project of Covid ID focusing on estimating Social Dist
 
 Team Members: 
 
+Manasi Weginwar
 Subhangi Asati 
 Divya Gupta 
-Manasi Weginwar
